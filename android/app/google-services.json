@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277708896013",
+    "project_id": "news-app-73758",
+    "storage_bucket": "news-app-73758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277708896013:android:e8b3169aa9c25ef5746244",
+        "android_client_info": {
+          "package_name": "com.example.dart_news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMS5hm8oROZ1_XyjHPUrW2GrIaLmtAk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
